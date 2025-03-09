@@ -30,7 +30,7 @@
     "productId": null
   },
     {
-    "id": "nouveau-quiz",
+    "id": "nouveau-qui",
     "title": "Nouveau Quiz",
     "description": "Nouveau contenu passionnant",
     "jsonFileName": "quiz4_converted",
@@ -40,7 +40,7 @@
     "productId": null
   },
     {
-    "id": "nouveau-quiz",
+    "id": "nouveau-qu",
     "title": "Nouveau Quiz",
     "description": "Nouveau contenu passionnant",
     "jsonFileName": "quiz5_converted",
@@ -50,7 +50,7 @@
     "productId": null
   },
     {
-    "id": "nouveau-quiz",
+    "id": "nouveau-q",
     "title": "Nouveau Quiz",
     "description": "Nouveau contenu passionnant",
     "jsonFileName": "quiz6_converted",
@@ -58,15 +58,5 @@
     "themeColorHex": "#FF9500",
     "isPremium": false,
     "productId": null
-  },
-  {
-    "id": "premium-expressions",
-    "title": "Expressions Avancées",
-    "description": "Maîtrisez les expressions françaises les plus sophistiquées",
-    "jsonFileName": "quiz4_premium",
-    "icon": "star.circle.fill",
-    "themeColorHex": "#FF2D55",
-    "isPremium": true,
-    "productId": "premium_quiz_4"
   }
 ]
