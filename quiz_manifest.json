@@ -1,4 +1,14 @@
 [
+    {
+    "id": "wrong-answers",
+    "title": "À réviser",
+    "description": "Questions à revoir",
+    "jsonFileName": "wrong_answers",
+    "icon": "exclamationmark.triangle.fill",
+    "themeColorHex": "#FF3B30",
+    "isPremium": false,
+    "productId": null
+  },
   {
     "id": "francais-familier",
     "title": "Français Familier",
