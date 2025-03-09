@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "Avoir la flemme",
+    "options": [
+      "Être paresseux (懒惰的)",
+      "Être très motivé (非常有动力的)",
+      "Être joyeux (快乐的)",
+      "Être occupé (忙碌的)"
+    ],
+    "answer_index": 0,
+    "example": "J'ai la flemme d'aller au sport.",
+    "translation": "我懒得去健身了，提不起劲。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 2,
+    "question": "Se barrer",
+    "options": [
+      "s'en aller (离开)",
+      "Se blesser (受伤)",
+      "Arriver tôt (早到)",
+      "Dormir (睡觉)"
+    ],
+    "answer_index": 0,
+    "example": "Cette réunion est interminable, je me barre !",
+    "translation": "这会议没完没了，我先溜了！",
+    "theme": "francais_familier"
+  }
+]
