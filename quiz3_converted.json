@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "question": "Avoir la flemme",
+    "options": [
+      "Être paresseux (懒惰的)",
+      "Être très motivé (非常有动力的)",
+      "Être joyeux (快乐的)",
+      "Être occupé (忙碌的)"
+    ],
+    "answer_index": 0,
+    "example": "J'ai la flemme d'aller au sport.",
+    "translation": "我懒得去健身了，提不起劲。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 2,
+    "question": "Se barrer",
+    "options": [
+      "s'en aller (离开)",
+      "Se blesser (受伤)",
+      "Arriver tôt (早到)",
+      "Dormir (睡觉)"
+    ],
+    "answer_index": 0,
+    "example": "Cette réunion est interminable, je me barre !",
+    "translation": "这会议没完没了，我先溜了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 3,
+    "question": "Avoir le cafard",
+    "options": [
+      "Être joyeux (快乐的)",
+      "Être triste (伤心的)",
+      "Avoir très faim (非常饿)",
+      "Être enthousiaste (热情的)"
+    ],
+    "answer_index": 1,
+    "example": "Il pleut dehors, ça me donne le cafard.",
+    "translation": "外面下雨，让我心情特别低落。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 4,
+    "question": "Être naze",
+    "options": [
+      "Être excellent (优秀的)",
+      "Être fatigué ou nul (疲惫的或无用的)",
+      "Être excité (兴奋的)",
+      "Être en avance (提前)"
+    ],
+    "answer_index": 1,
+    "example": "Ton idée est naze, franchement.",
+    "translation": "说实话，你这主意烂透了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 5,
+    "question": "Se planter",
+    "options": [
+      "Réussir parfaitement (完美成功)",
+      "Faire une erreur (犯错误)",
+      "Se reposer (休息)",
+      "Arriver en retard (迟到)"
+    ],
+    "answer_index": 1,
+    "example": "Je me suis complètement planté au test hier !",
+    "translation": "昨天考试我彻底搞砸了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 6,
+    "question": "Être vénère",
+    "options": [
+      "Être content (高兴)",
+      "Être fatigué (疲倦)",
+      "Être très en colère (非常生气)",
+      "Être inquiet (担心)"
+    ],
+    "answer_index": 2,
+    "example": "Il était trop vénère après le match perdu.",
+    "translation": "比赛输了后他气得要命。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 7,
+    "question": "Avoir du pot",
+    "options": [
+      "Avoir faim (饿)",
+      "Avoir de la chance (幸运)",
+      "Avoir froid (冷)",
+      "Avoir peur (害怕)"
+    ],
+    "answer_index": 1,
+    "example": "T'as vraiment eu du pot de trouver une place gratuite !",
+    "translation": "你运气真是爆棚，居然找到了免费停车位！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 8,
+    "question": "Kiffer",
+    "options": [
+      "Détester (讨厌)",
+      "Ignorer (忽视)",
+      "Aimer beaucoup (很喜欢)",
+      "Trouver ennuyeux (觉得无聊)"
+    ],
+    "answer_index": 2,
+    "example": "Je kiffe cette série !",
+    "translation": "我超爱这部剧！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 9,
+    "question": "Être en galère",
+    "options": [
+      "Être en vacances (在度假)",
+      "Être en forme (状态好)",
+      "Avoir des difficultés (有困难)",
+      "Être riche (很富有)"
+    ],
+    "answer_index": 2,
+    "example": "Je suis vraiment en galère avec mes devoirs.",
+    "translation": "我做作业真的很头疼。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 10,
+    "question": "Bouffer",
+    "options": [
+      "Courir (跑步)",
+      "Manger (吃)",
+      "Étudier (学习)",
+      "Dormir (睡觉)"
+    ],
+    "answer_index": 1,
+    "example": "On va bouffer au resto ce soir ?",
+    "translation": "今晚我们去餐馆吃点啥？",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 11,
+    "question": "Chelou",
+    "options": [
+      "Normal (正常的)",
+      "Bizarre ou suspect (奇怪或可疑的)",
+      "Excitant (令人兴奋的)",
+      "Triste (悲伤的)"
+    ],
+    "answer_index": 1,
+    "example": "Cette situation est vraiment chelou.",
+    "translation": "这情况真的很诡异。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 12,
+    "question": "Ouf",
+    "options": [
+      "Calme (平静的)",
+      "Prévisible (可预见的)",
+      "incroyable (疯狂的，难以置信的)",
+      "Ennuyeux (无聊的)"
+    ],
+    "answer_index": 2,
+    "example": "Ce concert était ouf !",
+    "translation": "这场演唱会简直太炸了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 13,
+    "question": "Relou",
+    "options": [
+      "Amusant (有趣的)",
+      "Facile (容易的)",
+      "Intéressant (有意思的)",
+      "Ennuyeux ou pénible (烦人的)"
+    ],
+    "answer_index": 3,
+    "example": "Arrête, tu deviens relou.",
+    "translation": "别闹了，你真的很烦人。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 14,
+    "question": "Taffer",
+    "options": [
+      "Jouer (玩)",
+      "Travailler dur (努力工作)",
+      "Voyager (旅行)",
+      "Se reposer (休息)"
+    ],
+    "answer_index": 1,
+    "example": "Je dois taffer tard ce soir.",
+    "translation": "我今晚得加班到很晚。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 15,
+    "question": "Balancer",
+    "options": [
+      "Lancer (扔)",
+      "Attraper (抓住)",
+      "Dénoncer quelqu'un (告发某人)",
+      "Ignorer (忽视)"
+    ],
+    "answer_index": 2,
+    "example": "Il n'a pas hésité à balancer son collègue.",
+    "translation": "他毫不犹豫地把同事给卖了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 16,
+    "question": "Se marrer",
+    "options": [
+      "Rire (笑)",
+      "Pleurer (哭)",
+      "Travailler (工作)",
+      "Dormir (睡觉)"
+    ],
+    "answer_index": 0,
+    "example": "On s'est bien marrés hier soir au cinéma.",
+    "translation": "昨晚我们在电影院笑得肚子疼。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 17,
+    "question": "Dingue",
+    "options": [
+      "Sage (明智的)",
+      "Sérieux (严肃的)",
+      "Calme (平静的)",
+      "Fou (疯狂的)"
+    ],
+    "answer_index": 3,
+    "example": "C'est dingue ce que tu dis !",
+    "translation": "你说的也太离谱了吧！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 18,
+    "question": "Flouze",
+    "options": [
+      "Temps (时间)",
+      "Argent (钱)",
+      "Amour (爱情)",
+      "Nourriture (食物)"
+    ],
+    "answer_index": 1,
+    "example": "Il a beaucoup de flouze en ce moment.",
+    "translation": "他现在很有钱，口袋满满的。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 19,
+    "question": "Baraque",
+    "options": [
+      "Bureau (办公室)",
+      "École (学校)",
+      "Maison (房子)",
+      "Voiture (车)"
+    ],
+    "answer_index": 2,
+    "example": "Sa nouvelle baraque est immense !",
+    "translation": "他的新房子超大的！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 20,
+    "question": "Débrouiller",
+    "options": [
+      "Se sortir d'une situation (摆脱困境)",
+      "Entrer dans une situation (陷入困境)",
+      "Dormir (睡觉)",
+      "Manger (吃饭)"
+    ],
+    "answer_index": 0,
+    "example": "Il sait toujours se débrouiller tout seul.",
+    "translation": "他总是能自己想办法搞定。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 21,
+    "question": "Glander",
+    "options": [
+      "Travailler dur (努力工作)",
+      "Courir (跑步)",
+      "Étudier (学习)",
+      "Ne rien faire (什么都不做)"
+    ],
+    "answer_index": 3,
+    "example": "Il passe ses journées à glander.",
+    "translation": "他整天都在混日子，啥也不干。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 22,
+    "question": "Zarbi",
+    "options": [
+      "Normal (正常的)",
+      "Bizarre (奇怪的)",
+      "Usuel (常见的)",
+      "Commun (普通的)"
+    ],
+    "answer_index": 1,
+    "example": "Son comportement est vraiment zarbi.",
+    "translation": "他的行为真的很怪异。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 23,
+    "question": "Mater",
+    "options": [
+      "Écouter (听)",
+      "Parler (说)",
+      "Regarder (看)",
+      "Toucher (触摸)"
+    ],
+    "answer_index": 2,
+    "example": "Il n'arrête pas de mater les filles qui passent.",
+    "translation": "他一直在盯着路过的女孩看，眼睛都直了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 24,
+    "question": "Bosser",
+    "options": [
+      "Travailler (工作)",
+      "Dormir (睡觉)",
+      "Manger (吃饭)",
+      "Jouer (玩)"
+    ],
+    "answer_index": 0,
+    "example": "Je dois bosser ce weekend.",
+    "translation": "这个周末我得干活。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 25,
+    "question": "Péter un câble",
+    "options": [
+      "Être calme (保持冷静)",
+      "Être patient (有耐心)",
+      "Être furieux (非常愤怒)",
+      "Être triste (伤心)"
+    ],
+    "answer_index": 2,
+    "example": "Il a pété un câble quand il a vu la facture.",
+    "translation": "看到账单后他彻底炸毛了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 26,
+    "question": "Péter les plombs",
+    "options": [
+      "Rester calme (保持冷静)",
+      "Devenir fou (发疯)",
+      "Être heureux (开心)",
+      "Être triste (伤心)"
+    ],
+    "answer_index": 1,
+    "example": "Elle a pété les plombs quand elle a appris la nouvelle.",
+    "translation": "她听到这个消息后彻底崩溃了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 27,
+    "question": "Faire gaffe",
+    "options": [
+      "Faire attention (注意)",
+      "Ignorer (忽视)",
+      "Oublier (忘记)",
+      "Dormir (睡觉)"
+    ],
+    "answer_index": 0,
+    "example": "Fais gaffe à ton portefeuille dans le métro !",
+    "translation": "在地铁上当心你的钱包！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 28,
+    "question": "Être à la bourre",
+    "options": [
+      "Être en avance (提前)",
+      "Être à l'heure (准时)",
+      "Être en retard (迟到)",
+      "Être absent (缺席)"
+    ],
+    "answer_index": 2,
+    "example": "Je suis toujours à la bourre le matin.",
+    "translation": "我早上总是迟到。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 29,
+    "question": "Avoir la dalle",
+    "options": [
+      "Avoir soif (口渴)",
+      "Avoir faim (饿)",
+      "Avoir sommeil (困)",
+      "Avoir froid (冷)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai trop la dalle, on va manger ?",
+    "translation": "我饿死了，我们去吃点东西吧？",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 30,
+    "question": "Être crevé",
+    "options": [
+      "Être énergique (精力充沛)",
+      "Être fatigué (疲惫)",
+      "Être joyeux (快乐)",
+      "Être en colère (生气)"
+    ],
+    "answer_index": 1,
+    "example": "Après cette journée, je suis complètement crevé.",
+    "translation": "这一天下来，我累得不行了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 31,
+    "question": "Faire la gueule",
+    "options": [
+      "Sourire (微笑)",
+      "Bouder (生闷气)",
+      "Pleurer (哭泣)",
+      "Rire (笑)"
+    ],
+    "answer_index": 1,
+    "example": "Il me fait la gueule depuis notre dispute.",
+    "translation": "自从我们吵架后，他一直在跟我闹别扭。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 32,
+    "question": "Être blindé",
+    "options": [
+      "Être pauvre (穷)",
+      "Être riche (富有)",
+      "Être malade (生病)",
+      "Être en bonne santé (健康)"
+    ],
+    "answer_index": 1,
+    "example": "Ce type est blindé, il a trois maisons !",
+    "translation": "这家伙超有钱，他有三套房子！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 33,
+    "question": "Foutre le bordel",
+    "options": [
+      "Ranger (整理)",
+      "Nettoyer (清洁)",
+      "Mettre le désordre (弄乱)",
+      "Décorer (装饰)"
+    ],
+    "answer_index": 2,
+    "example": "Les enfants ont foutu le bordel dans toute la maison.",
+    "translation": "孩子们把整个房子都弄得一团糟。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 34,
+    "question": "Être chaud",
+    "options": [
+      "Être froid (冷)",
+      "Être enthousiaste (热情)",
+      "Être triste (伤心)",
+      "Être fatigué (疲倦)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis chaud pour sortir ce soir !",
+    "translation": "我今晚很想出去玩！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 35,
+    "question": "Avoir la trouille",
+    "options": [
+      "Être courageux (勇敢)",
+      "Avoir peur (害怕)",
+      "Être calme (平静)",
+      "Être excité (兴奋)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la trouille avant chaque examen.",
+    "translation": "每次考试前我都很害怕。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 36,
+    "question": "Être à fond",
+    "options": [
+      "Être désintéressé (不感兴趣)",
+      "Être passionné (热情)",
+      "Être fatigué (疲倦)",
+      "Être ennuyé (无聊)"
+    ],
+    "answer_index": 1,
+    "example": "Il est à fond dans son nouveau projet.",
+    "translation": "他对他的新项目超级投入。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 37,
+    "question": "Être claqué",
+    "options": [
+      "Être en forme (精力充沛)",
+      "Être épuisé (精疲力尽)",
+      "Être heureux (快乐)",
+      "Être en colère (生气)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis claqué après ce marathon.",
+    "translation": "这场马拉松后我累瘫了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 38,
+    "question": "Avoir un coup de barre",
+    "options": [
+      "Être énergique (精力充沛)",
+      "Avoir une fatigue soudaine (突然疲劳)",
+      "Être en colère (生气)",
+      "Être joyeux (快乐)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai un coup de barre après le déjeuner.",
+    "translation": "午饭后我突然犯困了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 39,
+    "question": "Être branché",
+    "options": [
+      "Être démodé (过时)",
+      "Être à la mode (时尚)",
+      "Être classique (经典)",
+      "Être ordinaire (普通)"
+    ],
+    "answer_index": 1,
+    "example": "Il est super branché avec ses nouvelles lunettes.",
+    "translation": "他戴着新眼镜看起来很时髦。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 40,
+    "question": "Avoir la haine",
+    "options": [
+      "Être amoureux (恋爱)",
+      "Être très en colère (非常生气)",
+      "Être joyeux (快乐)",
+      "Être indifférent (冷漠)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la haine contre ce prof injuste.",
+    "translation": "我对这个不公正的老师超级生气。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 41,
+    "question": "Être largué",
+    "options": [
+      "Comprendre (理解)",
+      "Être perdu (迷失)",
+      "Être attentif (专注)",
+      "Être intéressé (感兴趣)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis complètement largué dans ce cours de maths.",
+    "translation": "我在这个数学课上完全跟不上。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 42,
+    "question": "Avoir la pêche",
+    "options": [
+      "Être déprimé (沮丧)",
+      "Être en pleine forme (精力充沛)",
+      "Être malade (生病)",
+      "Être fatigué (疲倦)"
+    ],
+    "answer_index": 1,
+    "example": "Ce matin, j'ai la pêche !",
+    "translation": "今天早上我感觉精神抖擞！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 43,
+    "question": "Être dans le coaltar",
+    "options": [
+      "Être alerte (警觉)",
+      "Être dans les nuages (迷糊)",
+      "Être concentré (专注)",
+      "Être précis (精确)"
+    ],
+    "answer_index": 1,
+    "example": "Désolé, je suis dans le coaltar ce matin.",
+    "translation": "抱歉，我今天早上脑子不清醒。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 44,
+    "question": "Être à la ramasse",
+    "options": [
+      "Être organisé (有条理)",
+      "Être en retard ou dépassé (落后)",
+      "Être en avance (提前)",
+      "Être ponctuel (准时)"
+    ],
+    "answer_index": 1,
+    "example": "Il est complètement à la ramasse dans ses études.",
+    "translation": "他的学习完全跟不上进度。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 45,
+    "question": "Avoir le seum",
+    "options": [
+      "Être content (满意)",
+      "Être frustré ou dégoûté (沮丧或厌恶)",
+      "Être surpris (惊讶)",
+      "Être excité (兴奋)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai trop le seum d'avoir raté mon examen.",
+    "translation": "我考试没过，超级郁闷。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 46,
+    "question": "Être cramé",
+    "options": [
+      "Être frais (新鲜)",
+      "Être grillé ou découvert (被发现)",
+      "Être caché (隐藏)",
+      "Être protégé (受保护)"
+    ],
+    "answer_index": 1,
+    "example": "Attention, tu es cramé, le prof t'a vu tricher !",
+    "translation": "小心，你被发现了，老师看到你作弊了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 47,
+    "question": "Être mort de rire",
+    "options": [
+      "Être triste (悲伤)",
+      "Être très amusé (非常好笑)",
+      "Être sérieux (严肃)",
+      "Être ennuyé (无聊)"
+    ],
+    "answer_index": 1,
+    "example": "Cette vidéo m'a rendu mort de rire !",
+    "translation": "这个视频让我笑死了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 48,
+    "question": "Être dans la lune",
+    "options": [
+      "Être attentif (专注)",
+      "Être distrait (心不在焉)",
+      "Être endormi (睡着)",
+      "Être concentré (集中)"
+    ],
+    "answer_index": 1,
+    "example": "Il est toujours dans la lune pendant les cours.",
+    "translation": "他上课总是心不在焉。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 49,
+    "question": "Avoir la cote",
+    "options": [
+      "Être impopulaire (不受欢迎)",
+      "Être populaire (受欢迎)",
+      "Être détesté (被讨厌)",
+      "Être ignoré (被忽视)"
+    ],
+    "answer_index": 1,
+    "example": "Ce nouveau chanteur a vraiment la cote auprès des jeunes.",
+    "translation": "这位新歌手在年轻人中真的很受欢迎。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 50,
+    "question": "Être à cran",
+    "options": [
+      "Être détendu (放松)",
+      "Être nerveux (紧张)",
+      "Être calme (平静)",
+      "Être endormi (睡着)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis à cran avant cette présentation importante.",
+    "translation": "这个重要演讲前我紧张得不行。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 51,
+    "question": "Avoir le blues",
+    "options": [
+      "Être heureux (快乐)",
+      "Être triste (悲伤)",
+      "Être excité (兴奋)",
+      "Être énergique (精力充沛)"
+    ],
+    "answer_index": 1,
+    "example": "Depuis son départ, j'ai le blues.",
+    "translation": "自从他离开后，我一直很郁闷。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 52,
+    "question": "Être dans le rouge",
+    "options": [
+      "Être riche (富有)",
+      "Être endetté (负债)",
+      "Être économe (节俭)",
+      "Être généreux (慷慨)"
+    ],
+    "answer_index": 1,
+    "example": "À la fin du mois, je suis toujours dans le rouge.",
+    "translation": "每到月底，我的账户总是透支。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 53,
+    "question": "Avoir un poil dans la main",
+    "options": [
+      "Être travailleur (勤劳)",
+      "Être paresseux (懒惰)",
+      "Être rapide (快速)",
+      "Être lent (缓慢)"
+    ],
+    "answer_index": 1,
+    "example": "Il a vraiment un poil dans la main, il ne fait jamais rien !",
+    "translation": "他真的很懒，什么都不做！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 54,
+    "question": "Mettre un râteau",
+    "options": [
+      "Accepter (接受)",
+      "Rejeter quelqu'un (拒绝某人)",
+      "Féliciter (祝贺)",
+      "Inviter (邀请)"
+    ],
+    "answer_index": 1,
+    "example": "Elle lui a mis un râteau devant tout le monde.",
+    "translation": "她当着所有人的面拒绝了他。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 55,
+    "question": "Être à côté de la plaque",
+    "options": [
+      "Comprendre (理解)",
+      "Se tromper complètement (完全搞错)",
+      "Être précis (精确)",
+      "Être exact (准确)"
+    ],
+    "answer_index": 1,
+    "example": "Tu es complètement à côté de la plaque sur ce sujet.",
+    "translation": "你对这个话题的理解完全跑偏了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 56,
+    "question": "Avoir la tête dans le cul",
+    "options": [
+      "Être alerte (警觉)",
+      "Être très fatigué (非常疲倦)",
+      "Être énergique (精力充沛)",
+      "Être concentré (专注)"
+    ],
+    "answer_index": 1,
+    "example": "Ce matin, j'ai la tête dans le cul, je n'ai pas assez dormi.",
+    "translation": "今早我脑子不清醒，没睡够。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 57,
+    "question": "Être une tête de linotte",
+    "options": [
+      "Avoir une bonne mémoire (记性好)",
+      "Être étourdi (健忘)",
+      "Être intelligent (聪明)",
+      "Être stupide (愚蠢)"
+    ],
+    "answer_index": 1,
+    "example": "Ma grand-mère est une vraie tête de linotte, elle oublie tout !",
+    "translation": "我奶奶真是个马大哈，什么都忘！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 58,
+    "question": "Avoir la dent",
+    "options": [
+      "Être rassasié (饱了)",
+      "Avoir faim (饿)",
+      "Être malade (生病)",
+      "Être en forme (健康)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la dent, on va manger quelque chose ?",
+    "translation": "我饿了，我们去吃点东西吧？",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 59,
+    "question": "Être une bille",
+    "options": [
+      "Être expert (专家)",
+      "Être nul (很差)",
+      "Être moyen (一般)",
+      "Être bon (很好)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis une bille en maths, je ne comprends rien.",
+    "translation": "我数学很烂，什么都不懂。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 60,
+    "question": "Avoir le smic",
+    "options": [
+      "Être riche (富有)",
+      "Avoir un petit salaire (工资低)",
+      "Être généreux (慷慨)",
+      "Être économe (节俭)"
+    ],
+    "answer_index": 1,
+    "example": "Il a le smic, il ne peut pas se permettre ce voyage.",
+    "translation": "他工资很低，负担不起这次旅行。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 61,
+    "question": "Être au taquet",
+    "options": [
+      "Être fatigué (疲倦)",
+      "Être au maximum de ses capacités (全力以赴)",
+      "Être lent (缓慢)",
+      "Être calme (平静)"
+    ],
+    "answer_index": 1,
+    "example": "Pour ce projet, je suis au taquet depuis des semaines.",
+    "translation": "为了这个项目，我已经好几周都在拼命工作了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 62,
+    "question": "Avoir un coup de barre",
+    "options": [
+      "Être énergique (精力充沛)",
+      "Avoir une fatigue soudaine (突然疲劳)",
+      "Être excité (兴奋)",
+      "Être heureux (快乐)"
+    ],
+    "answer_index": 1,
+    "example": "Après le déjeuner, j'ai toujours un coup de barre.",
+    "translation": "午饭后，我总是突然犯困。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 63,
+    "question": "Être dans son assiette",
+    "options": [
+      "Être mal (不舒服)",
+      "Être en forme (状态好)",
+      "Être malade (生病)",
+      "Être fatigué (疲倦)"
+    ],
+    "answer_index": 1,
+    "example": "Aujourd'hui, je ne suis pas dans mon assiette.",
+    "translation": "今天我状态不好。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 64,
+    "question": "Avoir la patate",
+    "options": [
+      "Être déprimé (沮丧)",
+      "Être en forme (精力充沛)",
+      "Être malade (生病)",
+      "Être fatigué (疲倦)"
+    ],
+    "answer_index": 1,
+    "example": "Ce matin, j'ai la patate, je pourrais déplacer des montagnes !",
+    "translation": "今天早上我精神抖擞，感觉能够移山倒海！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 65,
+    "question": "Être à la masse",
+    "options": [
+      "Être rapide (快速)",
+      "Être lent ou en retard (迟钝或落后)",
+      "Être intelligent (聪明)",
+      "Être précis (精确)"
+    ],
+    "answer_index": 1,
+    "example": "Il est complètement à la masse, il n'a rien compris.",
+    "translation": "他完全跟不上节奏，什么都没明白。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 66,
+    "question": "Avoir la gnaque",
+    "options": [
+      "Être fatigué (疲倦)",
+      "Avoir de l'énergie (有活力)",
+      "Être paresseux (懒惰)",
+      "Être lent (缓慢)"
+    ],
+    "answer_index": 1,
+    "example": "Pour réussir dans ce sport, il faut avoir la gnaque.",
+    "translation": "要在这项运动中取得成功，你需要有拼劲。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 67,
+    "question": "Être à l'arrache",
+    "options": [
+      "Être organisé (有条理)",
+      "Faire quelque chose à la dernière minute (最后一刻做某事)",
+      "Être préparé (有准备)",
+      "Être méthodique (有条理)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai fait ce devoir à l'arrache hier soir.",
+    "translation": "昨晚我临时抱佛脚完成了这个作业。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 68,
+    "question": "Avoir le moral dans les chaussettes",
+    "options": [
+      "Être joyeux (快乐)",
+      "Être déprimé (沮丧)",
+      "Être excité (兴奋)",
+      "Être énergique (精力充沛)"
+    ],
+    "answer_index": 1,
+    "example": "Depuis sa rupture, il a le moral dans les chaussettes.",
+    "translation": "自从分手后，他情绪低落。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 69,
+    "question": "Être à deux doigts de",
+    "options": [
+      "Être loin de (远离)",
+      "Être sur le point de (即将)",
+      "Être incapable de (无法)",
+      "Être obligé de (必须)"
+    ],
+    "answer_index": 1,
+    "example": "J'étais à deux doigts de lui dire la vérité.",
+    "translation": "我差点就告诉他真相了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 70,
+    "question": "Avoir la dalle",
+    "options": [
+      "Avoir soif (口渴)",
+      "Avoir très faim (非常饿)",
+      "Avoir sommeil (困)",
+      "Avoir froid (冷)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la dalle, on va se faire un resto ?",
+    "translation": "我饿死了，我们去餐厅吃饭吧？",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 71,
+    "question": "Être à la bourre",
+    "options": [
+      "Être en avance (提前)",
+      "Être en retard (迟到)",
+      "Être à l'heure (准时)",
+      "Être absent (缺席)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis à la bourre pour mon rendez-vous !",
+    "translation": "我要迟到了！",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 72,
+    "question": "Avoir la flemme",
+    "options": [
+      "Être motivé (有动力)",
+      "Être paresseux (懒惰)",
+      "Être excité (兴奋)",
+      "Être fatigué (疲倦)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la flemme de faire le ménage aujourd'hui.",
+    "translation": "我今天懒得打扫卫生。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 73,
+    "question": "Être cuit",
+    "options": [
+      "Être frais (精神)",
+      "Être épuisé (精疲力尽)",
+      "Être énergique (精力充沛)",
+      "Être heureux (快乐)"
+    ],
+    "answer_index": 1,
+    "example": "Après cette journée de travail, je suis cuit.",
+    "translation": "工作一天后，我累垮了。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 74,
+    "question": "Avoir la trouille",
+    "options": [
+      "Être courageux (勇敢)",
+      "Avoir très peur (非常害怕)",
+      "Être calme (平静)",
+      "Être confiant (自信)"
+    ],
+    "answer_index": 1,
+    "example": "J'ai la trouille de parler en public.",
+    "translation": "我非常害怕公开演讲。",
+    "theme": "francais_familier"
+  },
+  {
+    "id": 75,
+    "question": "Être fauché",
+    "options": [
+      "Être riche (富有)",
+      "Être sans argent (没钱)",
+      "Être économe (节俭)",
+      "Être dépensier (挥霍)"
+    ],
+    "answer_index": 1,
+    "example": "Je suis fauché jusqu'à la fin du mois.",
+    "translation": "我到月底都没钱了。",
+    "theme": "francais_familier"
+  }
+]
