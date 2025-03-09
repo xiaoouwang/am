@@ -1,0 +1,32 @@
+[
+  {
+    "id": "francais-familier",
+    "title": "Français Familier",
+    "description": "Apprenez les expressions familières françaises",
+    "jsonFileName": "quiz1_converted",
+    "icon": "bubble.left.and.bubble.right.fill",
+    "themeColorHex": "#007AFF",
+    "isPremium": false,
+    "productId": null
+  },
+  {
+    "id": "culture",
+    "title": "Culture",
+    "description": "Découvrez les expressions culturelles françaises",
+    "jsonFileName": "quiz2_converted",
+    "icon": "text.bubble.fill",
+    "themeColorHex": "#AF52DE",
+    "isPremium": false,
+    "productId": null
+  },
+  {
+    "id": "nouveau-quiz",
+    "title": "Nouveau Quiz",
+    "description": "Nouveau contenu passionnant",
+    "jsonFileName": "quiz3_converted",
+    "icon": "star.bubble.fill",
+    "themeColorHex": "#FF9500",
+    "isPremium": false,
+    "productId": null
+  }
+]
