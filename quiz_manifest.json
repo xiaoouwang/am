@@ -29,6 +29,36 @@
     "isPremium": false,
     "productId": null
   },
+    {
+    "id": "nouveau-quiz",
+    "title": "Nouveau Quiz",
+    "description": "Nouveau contenu passionnant",
+    "jsonFileName": "quiz4_converted",
+    "icon": "star.bubble.fill",
+    "themeColorHex": "#FF9500",
+    "isPremium": false,
+    "productId": null
+  },
+    {
+    "id": "nouveau-quiz",
+    "title": "Nouveau Quiz",
+    "description": "Nouveau contenu passionnant",
+    "jsonFileName": "quiz5_converted",
+    "icon": "star.bubble.fill",
+    "themeColorHex": "#FF9500",
+    "isPremium": false,
+    "productId": null
+  },
+    {
+    "id": "nouveau-quiz",
+    "title": "Nouveau Quiz",
+    "description": "Nouveau contenu passionnant",
+    "jsonFileName": "quiz6_converted",
+    "icon": "star.bubble.fill",
+    "themeColorHex": "#FF9500",
+    "isPremium": false,
+    "productId": null
+  },
   {
     "id": "premium-expressions",
     "title": "Expressions Avancées",
